@@ -1,2 +1,2 @@
 # site-basico
-Primeira versão do site dos CoWorkers Pela Educação! 
+Primeira versão do site dos Coworkers Pela Educação! 
